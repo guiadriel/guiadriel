@@ -38,7 +38,7 @@ These are some of my Tech Stack:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS_NextJS-38BDF8?style=flat-square&logo=react&logoColor=white)
-![ReactNative](https://img.shields.io/badge/-ReactNative-38BDF8?style=flat-square&logo=react&logoColor=white)
+![ReactNative](https://img.shields.io/badge/-ReactNative-282C34?style=flat-square&logo=react&logoColor=white)
 
 ![Python](https://img.shields.io/badge/-Python-326C9C?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
