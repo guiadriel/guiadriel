@@ -14,7 +14,7 @@
 
 <div style="margin-bottom: 30px; margin-top: 30px">
   <a href="https://github.com/guiadriel">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=guiadriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=22&hide_title=true" />
+    <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=guiadriel&theme=dark&hide_border=true)](https://github.com/guiadriel" />
     <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiadriel&layout=compact&langs_count=7&theme=dark" />
   </a>
 </div>
@@ -32,13 +32,18 @@ These are some of my Tech Stack:
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-3A3A3A?style=flat-square&logo=styledcomponents&logoColor=F75EEE)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=red)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-450135?style=flat-square&logo=adobexd&logoColor=F75EEE)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS_NextJS-38BDF8?style=flat-square&logo=react&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-282C34?style=flat-square&logo=react&logoColor=white)
+
+
 
 ![Python](https://img.shields.io/badge/-Python-326C9C?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
