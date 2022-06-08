@@ -5,6 +5,7 @@
 - 🔥 Sênior Web Developer, fascinated with solving problems and looking for the solutions.
 - 🏃‍♂️ I've been working as dev since 2014.
 - ✨ Currently at Workover Academy.
+- 🎹 Pianist in free time.
 
 ## Follow or contact me! 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Adriel-850600?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-adriel/)](https://www.linkedin.com/in/guilherme-adriel/) 
